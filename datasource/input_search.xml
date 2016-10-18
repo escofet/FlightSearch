@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flight_searches>
+    <searchdata id="10001">
+        <airport_origin>AMS</airport_origin>
+        <airport_dest>FRA</airport_dest>
+        <departure_date>2017-05-12</departure_date>
+        <adults>1</adults>
+        <childs>0</childs>
+        <infants>0</infants>
+    </searchdata>
+    <searchdata id="10002">
+        <airport_origin>LHR</airport_origin>
+        <airport_dest>IST</airport_dest>
+        <departure_date>2017-05-12</departure_date>
+        <adults>2</adults>
+        <childs>1</childs>
+        <infants>1</infants>
+    </searchdata>
+    <searchdata id="10003">
+        <airport_origin>BCN</airport_origin>
+        <airport_dest>MAD</airport_dest>
+        <departure_date>2017-05-12</departure_date>
+        <adults>1</adults>
+        <childs>2</childs>
+        <infants>2</infants>
+    </searchdata>
+</flight_searches>

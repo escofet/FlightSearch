@@ -1,0 +1,26 @@
+[
+    {
+        "airport_origin": "AMS",
+        "airport_dest" : "FRA",
+        "departure_date" : "2017-05-12",
+        "adults": 1,
+        "childs": 0,
+        "infants": 0
+    },
+    {
+        "airport_origin": "LHR",
+        "airport_dest" : "IST",
+        "departure_date" : "2017-05-12",
+        "adults": 2,
+        "childs": 1,
+        "infants": 1
+    },
+    {
+        "airport_origin": "BCN",
+        "airport_dest" : "MAD",
+        "departure_date" : "2017-05-12",
+        "adults": 1,
+        "childs": 2,
+        "infants": 2
+    }
+]
